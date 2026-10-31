@@ -1,0 +1,188 @@
+('C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+ 'projects\\build\\MemoryGame\\MemoryGame.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('MemoryGame',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\MemoryGame.py',
+   'PYSOURCE'),
+  ('python315.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\python315.dll',
+   'BINARY'),
+  ('_ssl.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('winsound.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\winsound.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp315-win_amd64.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PIL\\_webp.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_avif.cp315-win_amd64.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PIL\\_avif.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp315-win_amd64.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\PIL\\_imaging.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('tcl90.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\Nino '
+   'Lawan\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\zlib1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Nino Lawan\\OneDrive\\Documents\\For fun '
+   'projects\\build\\MemoryGame\\base_library.zip',
+   'DATA')],
+ 'python315.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
