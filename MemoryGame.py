@@ -1139,6 +1139,7 @@ class MemoryGame:
                 msg = f"You hit the max missed limit - {MISS_LIMIT} misses in a row."
             self.play("over")
             self.shake(10, 12)
+
         self.show_end_prompt(title, msg, stats, self.advance)
 
     # ---- normal: game over / win
